@@ -1,6 +1,3 @@
-# Student Number : S10165254A , S10127952K
-# Student Name   : Lin XiongQing and Lin Yu Hsien
-# Module Group   : FI 04
 
 from Bed import Bed
 class ClassCBed(Bed):
