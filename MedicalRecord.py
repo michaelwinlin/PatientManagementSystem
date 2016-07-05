@@ -1,4 +1,5 @@
 
+
 class MedicalRecord:
     def __init__(self,diagnosis,temperature,entry_added):
         self.__diagnosis=diagnosis
